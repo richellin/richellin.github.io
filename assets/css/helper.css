@@ -1,0 +1,24 @@
+// Class
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.top100 {
+  padding-top: 100px;
+}
+
+.top50 {
+  padding-top: 50px;
+}
+
+.left10 {
+  padding-left: 10px;
+}
