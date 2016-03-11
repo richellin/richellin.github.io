@@ -11,12 +11,20 @@
      margin-right: auto;
 }
 
+.d-table {
+     display: table;
+}
+
 .top100 {
   padding-top: 100px;
 }
 
 .top50 {
   padding-top: 50px;
+}
+
+.top30 {
+  padding-top: 30px;
 }
 
 .left10 {
